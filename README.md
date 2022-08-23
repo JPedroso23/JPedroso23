@@ -11,7 +11,7 @@
 
 - 👨‍💻 Meus projetos estão disponíveis em [https://github.com/JPedroso23/primeiro-repositorio](https://github.com/JPedroso23/primeiro-repositorio)
 
-- 💬 Me pergunte sobre **HTML, CSS,Javascript, API REST, Suporte Técnico, AWS, Cloudwatch, Knowledge Base**
+- 💬 Me pergunte sobre **HTML, CSS, Javascript, API REST, Suporte Técnico, AWS, Cloudwatch, Knowledge Base**
 
 - 📫 Como me contatar **https://www.linkedin.com/in/juan-p-6ba293120/**
 
