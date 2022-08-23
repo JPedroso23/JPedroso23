@@ -1,5 +1,5 @@
 <h1 align="center">Olá 👋, Eu sou Juan Pedroso</h1>
-<h3 align="center">Desenvolvedor em formação e apaixonado por desenvolvimento de software.</h3>
+<h3 align="center">Desenvolvedor em formação e apaixonado por tecnologias que auxiliam as pessoas.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jpedroso23&label=Profile%20views&color=0e75b6&style=flat" alt="jpedroso23" /> </p>
 
